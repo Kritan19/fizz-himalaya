@@ -1,0 +1,7 @@
+{
+  "name": "Fizz Himalaya",
+  "description": "A vibrant soda shop in Nepal fusing Himalayan purity with modern fizzy delights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
